@@ -1,3 +1,8 @@
+; Faculdade: FEAP Avaré
+; Curso: Engenharia da Computação
+; Data de Postagem: [06/11/2023]
+; Autor(es): [Willian Eduardo, Marcos Paulo]
+
 section .data
     msg1 db "Informe seu nome: ", 0
     msg2 db "Saudações, ", 0
@@ -54,4 +59,4 @@ exit:
     syscall
 
 # TESTADO PELO SITE : https://replit.com/~
-# DUPLA: MARCOS PAULO / WILLIAN NOVAES
+
